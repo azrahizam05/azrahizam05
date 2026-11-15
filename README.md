@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm currently studying Computer Science and buildi
 ### 🚀 About Me
 - 🎓 **Education:** Pursuing a **Bachelor of Computer Science (Data Engineering)** at **Universiti Teknologi Malaysia (UTM)** 🏛️
 - 🔭 **Current Focus:** Fundamentals of Data Engineering, Git/GitHub, and core programming concepts.
-- 🌱 **Currently Learning:** Python, SQL, HTML, CSS, and JavaScript.
+- 🌱 **Currently Learning:** C++
 - 💼 **LinkedIn:** [Azra Qistina Amir Hizam](https://www.linkedin.com/in/azra-qistina-amir-hizam-347b7a442)
 - ✉️ **Email:** [azraqistina@graduate.utm.my](mailto:azraqistina@graduate.utm.my)
 - 💬 **Ask me about:** My journey learning Data Engineering and software development!
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm currently studying Computer Science and buildi
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python, SQL, HTML, CSS, JavaScript (in progress)
+- **Languages:** C++
 - **Data & Tools:** Git, GitHub, VS Code
 
 ---
