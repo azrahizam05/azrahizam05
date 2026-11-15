@@ -1,12 +1,13 @@
 # Hi there, I'm Azra Qistina! 👋
 
-Welcome to my GitHub profile! I'm currently studying Computer Science and building my foundation in data engineering, software development, and modern tech stacks.
+Welcome to my GitHub profile! I'm currently studying Computer Science and building my foundation in data engineering. I am interested in and eager to build knowledge within a new field of STEM. 
+Turning curiosity into code- currently figuring how data works behind the scenes and enjoying every step of the learning curve✨
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Education:** Pursuing a **Bachelor of Computer Science (Data Engineering)** at **Universiti Teknologi Malaysia (UTM)** 🏛️
-- 🔭 **Current Focus:** Fundamentals of Data Engineering, Git/GitHub, and core programming concepts.
+- 🔭 **Current Focus:** Fundamentals of Data Engineering, Git/GitHub, and fundamental programming concepts.
 - 🌱 **Currently Learning:** C++
 - 💼 **LinkedIn:** [Azra Qistina Amir Hizam](https://www.linkedin.com/in/azra-qistina-amir-hizam-347b7a442)
 - ✉️ **Email:** [azraqistina@graduate.utm.my](mailto:azraqistina@graduate.utm.my)
@@ -19,6 +20,10 @@ Welcome to my GitHub profile! I'm currently studying Computer Science and buildi
 - **Data & Tools:** Git, GitHub, VS Code
 
 ---
+
+### My Learning Journey
+<p align="left">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 ### 📬 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/azra-qistina-amir-hizam-347b7a442)
